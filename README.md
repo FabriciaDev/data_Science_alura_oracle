@@ -1,6 +1,6 @@
 # Python, Data Science no OCI e Oracle Analytics - ONE
 Repositório para conter a formação de Data Science com python e colab da parceria oracle alura
-## Curso 1: Python para Data Science
+## Curso 1: Python para Data Science (logica_de_programacao.ipynb)
 ### Link do Colab: 
 https://colab.research.google.com/drive/1Bv9M8MfO0VppAz0emw0wUjw6komZrFyz?usp=sharing
 ### Certificado:
