@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1vTYdV68xljo7v3qb_4vPHuyCMt8PcpNm?usp=sh
 ### Certificado:
 https://cursos.alura.com.br/certificate/53771362-a962-4615-a827-d2cc965d249b
 ## Curso 3: Python Pandas: tratando e analisando dados (Python_Pandas.ipynb)
-### Link do Colab:
+### Link do Colab: https://colab.research.google.com/drive/15L2baWhSnSDsBKZsvXJd93tYOhol1Wz3?usp=sharing
 ### Certificado:
 ## Curso 1: Python para Data Science
 ### Link do Colab:
