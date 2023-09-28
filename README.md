@@ -19,3 +19,4 @@ https://cursos.alura.com.br/certificate/a2287172-5f44-482c-85da-7daaea852c6e
 ### Link do Colab:
 https://colab.research.google.com/drive/1CvsonkmDx34RnuelFGBmU0TPfpEIkm2D?usp=sharing
 ### Certificado:
+https://cursos.alura.com.br/certificate/915df36b-142e-43d3-98d8-70897b720074
